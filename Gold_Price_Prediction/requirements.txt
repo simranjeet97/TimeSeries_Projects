@@ -1,22 +1,31 @@
 appnope @ file:///opt/concourse/worker/volumes/live/8b5bd665-fe9a-4b43-55ab-604475fcb838/volume/appnope_1606859465017/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 certifi==2021.5.30
+charset-normalizer==2.0.12
+click==8.0.4
 cmdstanpy==0.9.5
 convertdate==2.3.2
 cycler==0.11.0
 Cython==0.29.32
+dataclasses==0.8
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 entrypoints==0.3
 ephem @ file:///opt/concourse/worker/volumes/live/0c942d1f-7951-48f8-4160-97ccdf698b6d/volume/ephem_1623920085104/work
 et-xmlfile==1.1.0
 fbprophet==0.5
+Flask==2.0.3
+gunicorn==20.1.0
 hijri-converter==2.2.4
 holidays==0.9.12
+idna==3.4
+importlib-metadata==4.8.3
 importlib-resources==5.4.0
 ipykernel @ file:///opt/concourse/worker/volumes/live/43eaf185-e9cd-4e78-5afa-c19accf1339d/volume/ipykernel_1596206683810/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython @ file:///opt/concourse/worker/volumes/live/8c453bb6-500b-4747-778c-a236ae4a574d/volume/ipython_1593447395779/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+itsdangerous==2.0.1
 jedi==0.17.0
+Jinja2==3.0.3
 joblib==1.1.1
 jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
 jupyter-core @ file:///opt/concourse/worker/volumes/live/77bbbaa9-1646-4473-6813-2e409c0843a8/volume/jupyter_core_1633420134849/work
@@ -24,6 +33,7 @@ kiwisolver==1.3.1
 korean-lunar-calendar==0.3.1
 LunarCalendar==0.0.9
 lunardate==0.2.0
+MarkupSafe==2.0.1
 matplotlib==3.3.4
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 numpy==1.19.5
@@ -43,6 +53,7 @@ pystan==2.17.1.0
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2022.6
 pyzmq @ file:///opt/concourse/worker/volumes/live/9d7ac74a-c2e0-4f27-6bc8-960d9f4f8edf/volume/pyzmq_1628276025927/work
+requests==2.27.1
 scikit-learn==0.24.2
 scipy==1.5.4
 setuptools-git==1.2
@@ -52,6 +63,9 @@ threadpoolctl==3.1.0
 tornado @ file:///opt/concourse/worker/volumes/live/cd39df49-5c81-4c95-513c-5bb83298b7ef/volume/tornado_1606942310103/work
 tqdm==4.64.1
 traitlets @ file:///opt/concourse/worker/volumes/live/ab4b852a-8753-4f70-6083-433627bb8c3b/volume/traitlets_1632761183919/work
+typing_extensions==4.1.1
+urllib3==1.26.12
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+Werkzeug==2.0.3
 xlrd==2.0.1
 zipp==3.6.0
